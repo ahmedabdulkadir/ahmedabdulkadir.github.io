@@ -1,0 +1,27 @@
+html { 
+  background: url(background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body {
+    text-align: center;
+    font-family: Avenir;
+    border: 1px solid green ;
+    background-color: white ;
+    padding: 15px;
+    margin-top: 50px;
+    margin-left: 250px;
+    margin-right: 250px;
+    min-height:100%;
+}
+
+.entry {
+    text-align: left;
+}
+
+.date {
+    font-style: oblique;
+    text-decoration: underline;
+}
